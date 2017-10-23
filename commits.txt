@@ -1,0 +1,17 @@
+commit 5665b71f7623b77542b5e5b3384e703f538ad2cd
+Author: adrianjguerrero <glact.adrian11@gmail.com>
+Date:   Sun Oct 22 19:53:43 2017 -0430
+
+    Una a mas al titulo lmao
+
+commit 3cf6b66e290aa245c3965b5a660e565cfb1a6ebe
+Author: adrianjguerrero <glact.adrian11@gmail.com>
+Date:   Sun Oct 22 19:52:56 2017 -0430
+
+    Cambie el 1 por un 2
+
+commit 058fb0f3b433be6b9e6e30a11a15e2b873f0fee0
+Author: adrianjguerrero <glact.adrian11@gmail.com>
+Date:   Sun Oct 22 19:50:30 2017 -0430
+
+    Iniciamos
