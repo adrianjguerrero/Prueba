@@ -6,7 +6,7 @@ public class Prueba {
 
     
     public static void main(String[] args) {
-     JOptionPane.showMessageDialog(null,"Prueba","Pruebaagria",1);
+     JOptionPane.showMessageDialog(null,"Prueba","Pruebaagria",2);
     }
     
 }
